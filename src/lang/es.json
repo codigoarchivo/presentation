@@ -54,27 +54,21 @@
   "page.global53": "Descargar",
   "page.global54": "Proyectos",
   
-  "page.dashboard_admin1": "Estadistica principal",
-
-  "page.dashboard_admin.post1": "Detalla tu",
-
-  "page.scheduled1": "Datos pago a Edgar Marcano",
-  "page.scheduled2": "Dirección de correo electrónico",
-  "page.scheduled3": "Número de teléfono",
-  "page.scheduled4": "Proposito de la cita",
-  
-  "page.footer.title1": "Personaliza tus Productos y Servicios",
-  "page.footer.title2": "Creando y Personalizando tu Sitio Web Utilizando Habilidades de Programación",
-  "page.footer.title3": "Todos los derechos",
-
   "page.home.title1": "Desarrollador Backend | JavaScript | TypeScript | Python | Apasionado por el Frontend",
   "page.home.title2": "Personaliza tus Productos y Servicios",
   "page.home.title3": "Encuéntrame en",
   "page.home.title4": "Perfil Profesional",
   "page.home.title5": "Descargar mi CV",
-  "page.home.title6": "Clientes",
-  "page.home.title7": "Conviértete",
-  "page.home.title8": "en Cliente",
+  "page.home.title6": "Páginas Web:",
+  "page.home.title7": "Diseño y desarrollo.",
+  "page.home.title8": "Aplicaciones Web:",
+  "page.home.title9": "Soluciones interactivas.",
+  "page.home.title10": "Diseño Gráfico:",
+  "page.home.title11": "Trabajos creativos en Photoshop.",
+  "page.home.title12": "Clases de Fin de Semana:",
+  "page.home.title13": "Aprende con nosotros.",
+  "page.home.title14": "Asesoría Personalizada:",
+  "page.home.title15": "Resolvemos tus dudas.",
 
   "page.home.text1": "Soy un desarrollador de software con más de tres años de trayectoria en la creación de aplicaciones web. Mi enfoque se centra en JavaScript, TypeScript y Python, y estoy constantemente actualizándome y ampliando mis habilidades en Java. Mi pasión radica en transformar ideas en código y crear soluciones innovadoras que simplifiquen la vida de las personas.",
   "page.home.text2": "Estoy en constante actualización y aprendizaje de nuevas",

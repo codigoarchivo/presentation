@@ -1,7 +1,6 @@
-import { LinkItem } from '@/components';
 import Image from 'next/image';
-import myweb from '../../../../public/images/MyWeb.png';
-import favicon from '../../../../public/favicon.ico';
+import myweb from '../../../public/images/MyWeb.png';
+import favicon from '../../../public/favicon.ico';
 import Link from 'next/link';
 
 interface IMyWeb {
