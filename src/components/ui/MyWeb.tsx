@@ -46,14 +46,14 @@ export const MyWeb = (props: IMyWeb) => {
         <p className='ext-xl tracking-tight font-medium text-primary dark:text-white md:text-4xl mt-6'>
           codigoarchivo
         </p>
-        <p className='mt-4 text-sm text-zinc-500 dark:text-zinc-400 font-light'>
+        <p className='mt-4 text-sm sm:text-lg text-zinc-500 dark:text-zinc-400 font-light'>
           <span>{props.intl[0]}</span>{' '}
           <strong className='text-primary'>
             {props.intl[1]} {props.intl[3]}
           </strong>{' '}
           <span>{props.intl[2]}</span>{' '}
         </p>
-        <p className='mt-4 text-sm text-zinc-500 dark:text-zinc-400 font-light'>
+        <p className='mt-4 text-sm sm:text-lg text-zinc-500 dark:text-zinc-400 font-light'>
           <span>{props.intl[4]}</span>{' '}
           <strong className='text-primary'>{props.intl[5]}</strong>{' '}
           <span>{props.intl[6]}</span>{' '}

@@ -1,4 +1,3 @@
-import { LinkItem } from "@/components/buttom/LinkItem";
 import Link from "next/link";
 
 interface IDownload {
@@ -23,7 +22,7 @@ export const Download = (props: IDownload) => {
           title={"Jackson Quintero"}
           target="_blank"
           href={
-            "https://drive.google.com/file/d/1e84KAP54cuc2DCYJveIdC3J4Os4E5V1M/view"
+            "https://docs.google.com/document/d/1rWuvntp18pHPJd1Z5imrX3LfsD-7b9RI/edit?usp=sharing&ouid=116913708790146656319&rtpof=true&sd=true"
           }
         >
           <>
@@ -50,7 +49,7 @@ export const Download = (props: IDownload) => {
           title={"Jackson Quintero"}
           target="_blank"
           href={
-            "https://drive.google.com/file/d/1zAfQk_Hdx6kfZP5ZUB2w3LSMIHegR2nD/view"
+            "https://docs.google.com/document/d/1maB6mTcOq4l0j4iUC2TKQGf3pUJT15ST/edit?usp=sharing&ouid=116913708790146656319&rtpof=true&sd=true"
           }
         >
           <>
